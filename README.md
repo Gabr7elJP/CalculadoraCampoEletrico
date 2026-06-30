@@ -7,7 +7,7 @@ d = 2,0 cm. As cargas das partículas são q1 = +3e, q2 = +e, q3 =- 5e, q4 =- 2e
 q5 =+3e, q6 = +e, q7 =- 5e e q8 = +e. Na notação dos vetores unitários, qual é
 o campo elétrico produzido pelas partículas no centro do quadrado?  .
 
-> 📌 <img src="images/diagrama.png">
+> 📌 <img src="CampoEletrico/images/diagrama.png">
 ---
 ## ⚙️ Resolução
 
